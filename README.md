@@ -8,9 +8,6 @@ It's a technology company first, but with a major focus on consumer well-being t
 
 A healthy meal delivered to your door, every single day
 
-### Summary
-
-Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
 ### Omnifood features
 
@@ -21,13 +18,23 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 ### How Omnifood works
 
-![alt text](https://github.com/Temitayo40/Bankist-App/blob/master/img/snap-shot2.png)
-![alt text](https://github.com/Temitayo40/Bankist-App/blob/master/img/snap-shot2.png)
+![alt text](https://github.com/Temitayo40/OminiFood-/blob/master/img/Ominifood_snap.png)
+![alt text](https://github.com/Temitayo40/OminiFood-/blob/master/img/Ominifood_snap2.png)
 
-### Contact information
+### Summary
 
-Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-Phone: 415-201-6370
-Email: hello@omnifood.com
+Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
-Social profiles: instagram, facebook, twitter [links to them not available yet]
+# Built with
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+# Live Demo
+ <a href="https://ominifood-free-realm.netlify.app/" target="_blank">OminiFood</a>
+ 
+# Usage
+
+click on the Live link and peruse the app.
+
