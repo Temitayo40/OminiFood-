@@ -29,6 +29,7 @@ Users can use our app to select their diet and foods they like and dislike, and 
 <ul>
 <li>HTML</li>
 <li>CSS</li>
+<li>JavaScript</li>
 </ul>
 
 # Live Demo
